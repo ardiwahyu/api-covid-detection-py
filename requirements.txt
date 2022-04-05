@@ -3,3 +3,4 @@ Flask_RESTful==0.3.9
 keras==2.6.0
 librosa==0.8.1
 numpy==1.20.3
+gunicorn==19.0.0
